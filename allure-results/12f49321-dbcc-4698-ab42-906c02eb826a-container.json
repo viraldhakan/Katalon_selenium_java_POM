@@ -1,1 +1,0 @@
-{"uuid":"12f49321-dbcc-4698-ab42-906c02eb826a","name":"Katalon.testbase.TestBase.init","children":["05c22ade-1886-4b5b-9b55-c36b587908c0"],"description":"","befores":[{"name":"init","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1751711973544,"stop":1751711973544}],"afters":[],"start":1751711973542,"stop":1751711973544}

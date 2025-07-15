@@ -1,1 +1,0 @@
-{"uuid":"58227ea5-cb18-4efd-a6ce-5384c080a9d6","name":"Katalon.testcase.AppointmentBookTest","children":["f59fc470-f9c4-4716-8f63-57b904697ced"],"befores":[{"name":"loginBeforeTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1751625480553,"stop":1751625485257}],"afters":[],"start":1751625480505,"stop":1751625553189}
